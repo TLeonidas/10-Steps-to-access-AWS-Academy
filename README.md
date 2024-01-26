@@ -22,4 +22,4 @@ Python familiarity: Enhances the JupyterLab experience for some labs. (Optional)
 
 ### Contributions Welcome!
 
-You can contribute by joining us in adding those handy links from the glossary to each corresponding step within the notebook. This will make it easier for learners to quickly navigate to specific sections and ensure a seamless learning flow.
+You can contribute by adding those handy links from the glossary to each corresponding step within the notebook. This will make it easier for learners to quickly navigate to specific sections and ensure a seamless learning flow. Feel free to come up with any other improvements.
