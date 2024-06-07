@@ -1,6 +1,6 @@
 # 10 Steps to Access AWS Academy & Perform Labs in JupyterLab with SageMaker
 
-### Target Audience: Students enrolled in AWS Academy courses.
+### Target Audience: HCC students enrolled in AWS Academy courses.
 
 In my second semester using AWS Academy at HCC, I noticed that over 20% of my colleagues struggled to access their accounts and launch labs for assignments. This not only caused frustration but also potentially hindered their learning progress.
 
